@@ -1,0 +1,10 @@
+.background-attachment{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background:linear-gradient(20deg, red, orange, blue);
+    background-image: url(../IMG/Drinks.jpg);
+}
+div{
+    height: 500px;
+     margin: 30px;
+}
