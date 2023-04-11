@@ -1,0 +1,35 @@
+.conteiner{
+    /* background-color: blue; */
+    /* border: 1px solid black; */
+    /* width: 283px; */
+    margin: 0 auto;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-1 ul li{
+    /* font-size: ; */
+    display: inline-block;
+    margin: 0 10px;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.Icon i{
+   font-size: 1.6rem; 
+   padding: 18px;
+}
+.logo img{ 
+    width: 118px;
+    /* align-items: center; */
+    padding: 20px;
+}
+.nav{
+    display: flex;
+    padding-top: 10px;
+}
